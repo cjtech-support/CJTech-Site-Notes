@@ -7,8 +7,8 @@ My clients want the job taken out of their hands and just deal with the results.
 Changes to happen for the CJ Tech Support Website.
 Website: https://cjtech.com.au
 
-I want the site to be a light, fast, mobile friendly site focused on marketing content. Not PC support content.
-There are a lot of SEO and Social Media business out there and I don't want to follow that generic marketing theme. I provide a full service for my small business target audience.
+I want the site to be a light, fast, mobile friendly site, focused on marketing content. Not PC support content.
+There are a lot of SEO and Social Media businesses out there and I don't want to follow that generic marketing theme. I provide a full service for my small business target audience.
 
 <ul>
 <li>Domain Name Registration</li>
