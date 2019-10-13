@@ -10,14 +10,16 @@ Website: https://cjtech.com.au
 I want the site to be a light, fast, mobile friendly site focused on marketing content. Not PC support content.
 There are a lot of SEO and Social Media business out there and I don't want to follow that generic marketing theme. I provide a full service for my small business target audience.
 
-Website Hosting
-Email Hosting
-Cloud Hosting of Documents
-Website Creating using Wordpress
-Google Adwords
-Facebook PPC
-Analytic and SEO Reports
-Detailed To Do Lists and Progress Reporting
+<ul>
+<li>Website Hosting</li>
+<li>Email Hosting</li>
+<li>Cloud Hosting of Documents</li>
+<li>Website Creating using Wordpress</li>
+<li>Google Adwords</li>
+<li>Facebook PPC</li>
+<li>Analytic and SEO Reports</li>
+<li>Detailed To Do Lists and Progress Reporting</li>
+</ul>
 
 Website Top Menu
 1. Main Page:
