@@ -21,14 +21,15 @@ There are a lot of SEO and Social Media business out there and I don't want to f
 <li>Detailed To Do Lists and Progress Reporting</li>
 </ul>
 
-Website Top Menu
+<h2>Website Top Menu</h2>
 1. Main Page:
 2. Web Mail Link
 3. Discussions (Forums)
 4. Terms and Policies
 
-1. Main Page
-The "Main Page" should introduce CJ Tech Support and identify the purpose of the business. The What, When, Where, Why and How of the business.
+<h3>Main Page</h3>
+The "Main Page" should introduce CJ Tech Support and identify the purpose of the business. 
+The What, When, Where, Why and How of the business.
 
 Seperate the page into 3 area.
 1. Tech Support Check List
