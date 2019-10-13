@@ -11,6 +11,7 @@ I want the site to be a light, fast, mobile friendly site focused on marketing c
 There are a lot of SEO and Social Media business out there and I don't want to follow that generic marketing theme. I provide a full service for my small business target audience.
 
 <ul>
+<li>Domain Name Registration</li>
 <li>Website Hosting</li>
 <li>Email Hosting</li>
 <li>Cloud Hosting of Documents</li>
