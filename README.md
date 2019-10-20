@@ -38,9 +38,11 @@ Seperate the page into 3 area.
 3. Promote your business
 
 Sister sites to promote are 
-https://ucard.cloud
-https://searchonline.com.au
-https://propertylaunch.info
-Trello AU Business Directory: https://trello.com/b/bHzrzXM0
+<ul>
+<li>https://ucard.cloud</li>
+<li>https://searchonline.com.au</li>
+<li>https://propertylaunch.info</li>
+<li>Trello AU Business Directory: https://trello.com/b/bHzrzXM0</li>
+</ul>
 
 
