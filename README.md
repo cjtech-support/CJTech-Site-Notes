@@ -1,4 +1,4 @@
-# CJTech-Site-Notes
+# CJTech Support Site Notes
 CJ Tech Support Site Notes<br />
 I would like to transform the CJ Tech Support business from being known only as a computer support and networking business, to the small business marketing agency that it has become. I spend more of my time each day helping with wordpress support, website maintenance, cloud hosting email and docs than I do with fixing pc's.
 
