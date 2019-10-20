@@ -7,19 +7,19 @@ My clients want the job taken out of their hands and just deal with the results.
 Changes to happen for the CJ Tech Support Website.
 Website: https://cjtech.com.au
 
-I want the site to be a light, fast, mobile friendly site, focused on marketing content. Not PC support content.
-There are a lot of SEO and Social Media businesses out there and I don't want to follow that generic marketing theme. I provide a full service for my small business target audience.
+The CJ Tech Support site is to be a light, fast, mobile friendly site, focused on marketing content. Not PC support content.
+There are a lot of SEO and Social Media businesses out there and I don't want to follow that generic marketing theme. I provide a full service for my small business audience.
 
 <ul>
 <li>Domain Name Registration</li>
 <li>Website Hosting</li>
 <li>Email Hosting</li>
 <li>Cloud Hosting of Documents</li>
-<li>Website Creating using Wordpress</li>
+<li>Website Creation using Wordpress</li>
 <li>Google Adwords</li>
 <li>Facebook PPC</li>
 <li>Analytic and SEO Reports</li>
-<li>Detailed To Do Lists and Progress Reporting</li>
+<li>Detailed SEO To Do Lists and Progress Reporting</li>
 </ul>
 
 <h2>Website Top Menu</h2>
@@ -36,5 +36,11 @@ Seperate the page into 3 area.
 1. Tech Support Check List
 2. SEO Quality Target
 3. Promote your business
+
+Sister sites to promote are 
+https://ucard.cloud
+https://searchonline.com.au
+https://propertylaunch.info
+Trello AU Business Directory: https://trello.com/b/bHzrzXM0
 
 
