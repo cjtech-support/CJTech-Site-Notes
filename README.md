@@ -1,48 +1,66 @@
-# CJTech Support Site Notes
+# CJ Tech Support – Site Notes
 
-The transformation of the CJ Tech Support Brand from being known only as a computer support and networking business, to the small business marketing agency that it has become. I spend more of my time each day helping with wordpress support, website maintenance, cloud hosting email and docs than I do with fixing pc's.
+**CJ Tech Support** is transforming from a traditional PC support and networking business into a **results-driven small business marketing agency**.
 
-My clients want the job taken out of their hands and just deal with the results. My business focus is now of getting results for my small business clients and the other websites that I own. By changing the focus of the business, I am hoping that the income will also then come from this new direction. Currently the majority of my income is still coming from pc and network support.
+While I still provide PC and network services, most of my time is now focused on:
+- WordPress support and maintenance  
+- Website creation and management  
+- Cloud-based email and document hosting  
+- Google Ads and Facebook PPC campaigns  
+- SEO reporting and actionable marketing strategies  
 
-Changes to happen for the CJ Tech Support Website.
-Website: https://cjtech.com.au
+---
 
-The CJ Tech Support site is to be a light, fast, mobile friendly site, focused on marketing content. Not PC support content.
-There are a lot of SEO and Social Media businesses out there and I don't want to follow that generic marketing theme. I provide a full service for my small business audience.
+## 📌 The New Direction
 
-<ul>
-<li>Domain Name Registration</li>
-<li>Website Hosting</li>
-<li>Email Hosting</li>
-<li>Cloud Hosting of Documents</li>
-<li>Website Creation using Wordpress</li>
-<li>Google Adwords</li>
-<li>Facebook PPC</li>
-<li>Analytic and SEO Reports</li>
-<li>Detailed SEO To Do Lists and Progress Reporting</li>
-</ul>
+My clients don't want dashboards and tools—they want results.
 
-<h2>Website Top Menu</h2>
-1. Main Page:
-2. Web Mail Link
-3. Discussions (Forums)
-4. Terms and Policies
+This business shift is about **removing technical stress** from small business owners and focusing on **high-impact digital services**. I'm re-aligning the CJ Tech brand to reflect this.
 
-<h3>Main Page</h3>
-The "Main Page" should introduce CJ Tech Support and identify the purpose of the business. 
-The What, When, Where, Why and How of the business.
+> **💡 Note:** While the majority of current income still comes from PC and network support, the new focus is on building long-term value through digital marketing services.
 
-Seperate the page into 3 area.
-1. Tech Support Check List
-2. SEO Quality Target
-3. Promote your business
+---
 
-Sister sites to promote are 
-<ul>
-<li>https://ucard.cloud</li>
-<li>https://searchonline.com.au</li>
-<li>https://propertylaunch.info</li>
-<li>Trello AU Business Directory: https://trello.com/b/bHzrzXM0</li>
-</ul>
+## 🌐 Website Plan  
+**URL:** [https://cjtech.com.au](https://cjtech.com.au)
 
+The new CJ Tech Support site will be:
+- ✅ Fast, lightweight, and mobile-first  
+- ✅ Built around *marketing content*, not tech jargon  
+- ✅ Designed to deliver clarity, not clutter  
+- ✅ Positioned differently from generic SEO/social media agencies  
 
+---
+
+## 🔧 Full-Service Offerings
+
+CJ Tech Support provides everything a small business needs to thrive online:
+
+### 🛠️ Infrastructure
+- Domain Name Registration  
+- Website Hosting  
+- Email Hosting  
+- Cloud Document Management  
+
+### 🌱 Growth & Marketing
+- WordPress Website Creation & Support  
+- Google Ads (AdWords) Campaigns  
+- Facebook Pay-Per-Click Advertising  
+- SEO Analytics and Performance Reports  
+- Step-by-Step SEO To-Do Lists  
+- Ongoing Progress Tracking  
+
+---
+
+## 👨‍💻 Mission Statement
+**“Take the job off their hands, and deliver results they can see.”**
+
+That’s the foundation of every service I offer.
+
+---
+
+## 📋 Next Steps
+This repo documents the evolution of CJ Tech Support.  
+Check back for updates on branding, site changes, and service documentation.
+
+---
