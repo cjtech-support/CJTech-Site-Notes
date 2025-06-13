@@ -51,7 +51,7 @@ We explain everything in plain English and give you regular updates, so you alwa
 
 ## 💡 For Plumbers & Agents Like You
 
-* 👨‍🔧 **Peter (Plumber):** Now shows up for “Electrician Carlingford” and “emergency electrician.”
+* 👨‍🔧 **Peter (Electrician):** Now shows up for “Electrician Carlingford” and “emergency electrician.”
 * 🏠 **Rob, Angelo and Zac (Real Estate):** Shows up for searches like “real estate agent Carlingord” and “homes for sale near me.”
 
 We don’t promise to “rank you #1 overnight” — that’s not how Google works. But we do promise real, steady progress.
