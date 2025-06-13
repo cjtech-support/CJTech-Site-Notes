@@ -49,7 +49,7 @@ Need shared calendars or cloud storage too? I can set that up with Google Worksp
 
 I help businesses store their important documents securely online so the whole team can access them from anywhere:
 
-* Setup of Google Drive or OneDrive
+* Setup Dropbox
 * Shared folders for staff
 * Simple permission control (who can see or edit what)
 
